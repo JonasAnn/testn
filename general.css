@@ -34,6 +34,7 @@ img{
    body,
    html{
    font-size: 12px;
+      backgound-color:red;
   }
   .btn{
    padding: 14px 27px;
